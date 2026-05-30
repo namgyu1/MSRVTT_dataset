@@ -1,0 +1,11 @@
+# Share metadata and preprocessing code without shipping media files.
+videos/**/*.mp4
+videos/**/*.wav
+
+# Common local artifacts.
+__pycache__/
+*.pyc
+err_vid*.txt
+**/.ipynb_checkpoints/
+**/.DS_Store
+**/._*
